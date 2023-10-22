@@ -43,7 +43,6 @@ Various machine learning models are evaluated using cross-validation to determin
 
 Hyperparameters of the Random Forest Regressor are tuned using RandomizedSearchCV to find the best combination of hyperparameters for improved model performance.
 
-### Model Training and Testing
 
 ## Model Results
 
