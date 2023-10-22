@@ -45,7 +45,18 @@ Hyperparameters of the Random Forest Regressor are tuned using RandomizedSearchC
 
 ### Model Training and Testing
 
-The best-performing model (Random Forest Regressor) is trained on the data and tested on a hold-out test set. Metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) are calculated to evaluate the model's performance.
+## Model Results
+
+After thorough analysis and evaluation, the best-performing model (Random Forest Regressor) has been selected. Here are the performance metrics for this model:
+
+- **Mean Absolute Error (MAE):** 0.1455
+- **Mean Squared Error (MSE):** 0.0401
+- **Root Mean Squared Error (RMSE):** 0.2002
+- **R-squared (R2) Score:** 0.8526
+
+These metrics demonstrate the accuracy and reliability of the model in predicting housing prices in Melbourne. The R-squared score of 0.8526 indicates that the model explains a significant portion of the variance in the target variable.
+
+
 
 ## Repository Contents
 
